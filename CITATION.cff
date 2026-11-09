@@ -4,7 +4,7 @@ title: "Photoredox Learn"
 type: software
 authors:
   - family-names: Bindschaedler
-    given-names: Quentin
+    given-names: Quentin P.
     affiliation: ChemTrain
 abstract: "A Quizlet-style trainer for redox potentials, electron transfer and photoredox cycles, in one HTML file."
 url: "https://chemtrain.github.io/photoredox-learn/photoredox_learn.html"

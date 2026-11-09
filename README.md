@@ -27,7 +27,7 @@ Redox potentials come from J. K. Prier, D. A. Rankic, D. W. C. MacMillan, *Chem.
 
 If you use Photoredox Learn in a course, a worksheet or a paper, please cite it:
 
-> Bindschaedler, Q. *Photoredox Learn* (2026). ChemTrain. https://github.com/ChemTrain/photoredox-learn
+> Bindschaedler, Q. P. *Photoredox Learn* (2026). ChemTrain. https://github.com/ChemTrain/photoredox-learn
 
 GitHub's **Cite this repository** button (from `CITATION.cff`) gives the same reference in APA and BibTeX.
 
