@@ -12,7 +12,7 @@ You can also download `photoredox_learn.html` and open it in any browser. Its si
 
 - 143 cards in 6 sets: metal photocatalysts (Ru, Ir and Cu, each with its excited- and ground-state potentials), organic photocatalysts (acridinium, 4CzIPN, eosin Y and others), reagents and metal couples (metallocenes, magic blue, amines, Hantzsch ester, halides, iodine(III), nickel and copper), substrates to oxidise and to reduce, and textbook standard potentials in water; shown vs SCE or, with one click, vs Fc⁺/Fc
 - A 2D structure for each species; metal complexes drawn with their ligands fanned around the metal
-- Learn: give the potential of each card (multiple choice, then typed), or name the couple that has a given potential; cards are mastered after two right answers in a row
+- Learn: give the potential of each card (multiple choice, then typed), or name the couple that has a given potential; cards are mastered after three right answers
 - Rank: deal 5, 10 or 15 cards from a set and put them in order of potential; only cards measured in the same solvent are compared
 - Electron transfer: a donor and an acceptor (photocatalysts, reagents, substrates); is the electron transfer downhill?
 - Cycles: 18 published reactions (which quenching cycle, or energy transfer?), plus generated questions on which photocatalyst can both oxidise one substrate and reduce another, and which partner turns the catalyst over
